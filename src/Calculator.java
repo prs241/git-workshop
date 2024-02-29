@@ -1,3 +1,4 @@
+package src;
 // Simple integer calculator 
 
 public class Calculator {
