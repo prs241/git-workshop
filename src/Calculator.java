@@ -13,7 +13,10 @@ public class Calculator {
     }
 
     // TODO: Create divide method
-
+    static int divide(int a, int b) 
+    {
+    return a/b;
+    }
     // TODO: Create exponent method
 
     // TODO: Create
