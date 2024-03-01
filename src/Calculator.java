@@ -8,6 +8,9 @@ public class Calculator {
     }
 
     // TODO: Create subtract method
+    static int subtract(int a, int b) {
+    	return a - b;
+    }
 
     // TODO: Create divide method
 
